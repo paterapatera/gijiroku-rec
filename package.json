@@ -1,0 +1,11 @@
+{
+  "name": "t-voice-memo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "namataka",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.11.9",
+    "vosk": "^0.3.39"
+  }
+}
